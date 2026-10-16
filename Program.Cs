@@ -1,0 +1,1 @@
+Console.WriteLine("Bienvenue dans le programme du résolveur n sur reine ");
